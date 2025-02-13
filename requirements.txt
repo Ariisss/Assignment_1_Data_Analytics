@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+scipy
+IPython
+pulp
+lifelines
+matplotlib
+seaborn
