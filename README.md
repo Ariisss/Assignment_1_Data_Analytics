@@ -77,3 +77,30 @@ This project aims to apply **Balanced Risk Set Matching (BRSM)** as a statistica
   - **Sensitivity analysis conclusions** (robustness of findings).
 
 **Output:** Final research paper/report with validated conclusions.
+
+---
+
+### Prerequisites
+
+Ensure you have Python 3.8 or later installed on your system. You can download the latest version of Python from the [official website](https://www.python.org/downloads/).
+
+### Installation
+
+1. **Clone the Repository**
+
+  ```bash
+  git clone https://github.com/your-username/balanced-risk-set-matching.git
+  cd balanced-risk-set-matching
+  ```
+2. **Create a Virtual Environment**
+
+  ```bash
+  python3 -m venv venv
+  source venv/bin/activate  # On Windows, use venv\Scripts\activate
+  ```
+
+3. **Install Dependencies**
+
+  ```bash
+  pip install -r requirements.txt
+  ```
